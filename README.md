@@ -1,1 +1,3 @@
-esse é o arquivo para apresdentar os cursos
+# site dos cursos
+
+esse é o arquivo para apresentar cursos e instrutores
